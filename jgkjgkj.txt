@@ -1,2 +1,9 @@
 i am writing this for benefit of society.
 two road diverged in yellow wood sorry i cannot cchose both
+.
+i am making some more changes to this file so that everyone could uns#derstand
+git vcs
+distributed
+local copy and remote repo
+git push origin/master
+git pull origin
