@@ -7,3 +7,5 @@ distributed
 local copy and remote repo
 git push origin/master
 git pull origin
+git push origin
+git remote add origin url
