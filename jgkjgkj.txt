@@ -7,3 +7,5 @@ distributed
 local copy and remote repo
 git push origin/master
 git pull origin
+git pull origin to fetch the changes from remote
+git push origin to push the changes to the remote
