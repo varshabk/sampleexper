@@ -14,3 +14,5 @@ origin/master remote repository
 git log origin/master
 git diff origin/master
 git merge origin/master
+
+git pull origin will pull the changes from the remote master to our local repository
