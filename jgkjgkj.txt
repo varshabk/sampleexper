@@ -9,3 +9,8 @@ git push origin/master
 git pull origin
 git push origin
 git remote add origin url
+master local copy
+origin/master remote repository
+git log origin/master
+git diff origin/master
+git merge origin/master
